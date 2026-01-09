@@ -183,7 +183,7 @@ async function handlePngExport() {
       <q-separator dark vertical />
 
       <q-btn
-        href="https://github.com/airafrog/spracker"
+        href="https://github.com/paigefrog/spracker"
         icon="fab fa-github"
         target="_blank"
         stretch

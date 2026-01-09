@@ -89,7 +89,7 @@ const showLoadProjectDialog = ref(false);
           license.
         </p>
         <q-btn
-          href="https://github.com/airafrog/spracker"
+          href="https://github.com/paigefrog/spracker"
           color="accent"
           icon="fab fa-github"
           label="View on GitHub"
@@ -100,7 +100,7 @@ const showLoadProjectDialog = ref(false);
 
     <q-toolbar class="bg-black">
       <q-btn
-        href="https://github.com/airafrog/spracker"
+        href="https://github.com/paigefrog/spracker"
         icon="fab fa-github"
         label="Spracker"
         target="_blank"
